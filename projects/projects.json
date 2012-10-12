@@ -461,6 +461,22 @@
    	      "Google Maps API v3",
    	      "Open Source"
    	      ]
+    },
+    {
+      "name": "InqZin App",
+      "thumb": "inqzin/inqzin.png",
+      "desc": "List meets excel",
+      "url": "https://www.inqzin.com",
+      "info": "http://www.inqzin.com",
+      "src": "",
+      "submitter": "gops",
+      "submissionDate": "2012-10-12",
+      "tags": [
+        "Demo",
+        "Productivity", 
+        "Local Storage", "App Engine",
+        "jQuery"
+      ]
     }
   ]
 }
